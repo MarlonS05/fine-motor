@@ -1,0 +1,5 @@
+name: finemotor_lint_rules
+description: Import-boundary deny-lists for Fine Motor.
+publish_to: "none"
+environment:
+  sdk: ^3.12.2

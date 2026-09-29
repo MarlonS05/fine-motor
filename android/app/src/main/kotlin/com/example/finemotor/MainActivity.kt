@@ -1,0 +1,5 @@
+package com.example.finemotor
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
